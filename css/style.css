@@ -1109,6 +1109,8 @@ article .content h2:before {
   content: "#";
   font-weight: bold;
   font-size: 1.2rem;
+  visibility: visible;
+/* visibility: hidden; */
 }
 article .content img,
 article .content video {
